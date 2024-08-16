@@ -23,11 +23,11 @@ I'm a dedicated Software Engineer from Dhaka, Bangladesh, with a passion for **N
 ### 🚀 Projects
 
 
-- **[Food Court Design](#)**: A basic design of a food court using OpenGL in C
-- **[Highway Havoc](#)**: A simple racing game using Python (pygame)
-- **[Cardiac Recorder](#)**: An Android application to track blood pressure and heart rate
-- **[Fitness Freak Foodie](#)**: An Android app for diet management, utilizing Java, Firebase, and SQLite
-- **[The Workout Zone](#)**: A console-based app for gym information, demonstrating object-oriented programming concepts in C++
+- **[Food Court Design](https://github.com/Asfia-oishy/FoodCourt)**: A basic design of a food court using OpenGL in C
+- **[Highway Havoc](https://github.com/Asfia-oishy/Highway-Havoc)**: A simple racing game using Python (pygame)
+- **[Cardiac Recorder](https://github.com/tanvir18009/CardiacRecorder_007_009)**: An Android application to track blood pressure and heart rate
+- **[Fitness Freak Foodie](https://github.com/Asfia-oishy/FitnessFreakFoodie)**: An Android app for diet management, utilizing Java, Firebase, and SQLite
+- **[The Workout Zone](https://github.com/Asfia-oishy/TheWorkOutZone)**: A console-based app for gym information, demonstrating object-oriented programming concepts in C++
 
 
 ---
