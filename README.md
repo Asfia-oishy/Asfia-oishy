@@ -168,10 +168,9 @@ I'm a dedicated Software Engineer from Dhaka, Bangladesh, with a passion for **N
 # 📊 GitHub Stats:
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asfia-oishy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Asfia-oishy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Asfia-oishy&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Asfia-oishy&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asfia-oishy&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
